@@ -4,6 +4,6 @@ GUI SPACE
 DELAY 150
 BACKSPACE
 DELAY 250
-STRING https://github.com/veroleone/HackStarter-Kit
+STRING https://www.tiktok.com/@alsa.music/video/7468792116458654983?is_from_webapp=1&sender_device=pc
 DELAY 250
 ENTER
