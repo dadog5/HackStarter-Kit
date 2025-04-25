@@ -1,2 +1,2 @@
-GUI e
+GUI alt f4
 REPEAT 99999999
